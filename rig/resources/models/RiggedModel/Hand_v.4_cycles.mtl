@@ -1,0 +1,24 @@
+# Blender MTL File: 'Hand_v.4_cycles.blend'
+# Material Count: 2
+newmtl Material.004
+Ns 23.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.569813 0.450562 0.382238
+Ks 0.155108 0.145097 0.106960
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\HAND_Low_N Kopie.jpg
+map_Bump textures\\HAND_Low_N Kopie.jpg
+
+
+newmtl Material.043
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+

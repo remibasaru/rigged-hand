@@ -1,0 +1,7 @@
+.vs/
+*.suo
+Debug/
+Release/
+ipch/
+*sdf
+
